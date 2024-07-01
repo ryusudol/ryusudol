@@ -1,6 +1,6 @@
 # Hi, I'm Suhyeon 👋🏼
 
-![Profile Image](images/profile-img.png)
+![Profile Image](image/profile-img.png)
 
 ## 🤝 How to reach me
 Email: suhyeon.yu.2789@gmail.com <br>
