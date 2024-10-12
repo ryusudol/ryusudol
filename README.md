@@ -13,4 +13,4 @@ LinkedIn: [Suhyeon Yu](https://www.linkedin.com/in/suhyeon-yu-21708b1ba/)
 **Programming Languages**: C, C++, Python, JavaScript, TypeScript <br>
 **Databases**: MySQL, MongoDB, Firebase <br>
 **Hands-on Experiences / Tools**: ChatGPT API, D3.js, Docker, Node.js, Next.js, React.js, R, SQL <br>
-**Technical Interests**: Data Visualization, AI, Aerospace Engineering
+**Technical Interests**: Frontend Development, Data Visualization, AI, Aerospace Engineering (Elon Musk fan)
