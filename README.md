@@ -1,6 +1,6 @@
 ## Hi there! I'm Suhyeon 👋🏼
 
-### Who I am
+### 🚀 Who I am
 I'm Suhyeon Yu, a graduate of Sungkyunkwan University (SKKU), majoring in Computer Science and Engineering.
 I'm currently doing a research project called 'Machine Unlearning Dashboard', which is a Data Visualization project.
 
